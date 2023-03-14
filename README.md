@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web 3.0..
 - 💞️ I’m looking to collaborate on Web development 
 - 📫 How to reach me
-     Email: dualworld34@gmail.com 
+     Email: wbugti125@gmail.com 
      
 
 <!---
