@@ -50,8 +50,9 @@
 <div align="center">
   <h2>✍ My Contributions </h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
+  <img alt="snake eating my contributions" src="https://github.com/waqar-s/waqar-s/blob/output/github-contribution-grid-snake.svg" />
+    ![Snake animation](https://github.com/waqar-s/waqar-s/blob/output/github-contribution-grid-snake.svg)
+
   <br/><br/>
 </div>
 
@@ -65,6 +66,7 @@
   <br/>
   <img width=420 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=waqar-s&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
 
 <br/><br/>
 
