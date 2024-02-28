@@ -1,7 +1,4 @@
 
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&weight=900&center=true&vCenter=true&width=600&height=70&duration=4500&lines=Hi+There!+;+I'm+Waqar+Baloch!+;+A+Frontend+Developer!+;+And+UI+UX+Designer!" />
 </h3>
